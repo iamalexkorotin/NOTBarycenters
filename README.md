@@ -1,4 +1,4 @@
-# Estimating Barycenters of Distributions with Neural Optimal Transport
+# Estimating Barycenters of Distributions with Neural Optimal Transport (ICML 2024)
  
 This is the official `Python` implementation of the [ICML 2024](https://icml.cc/virtual/2024/poster/32654) paper **Estimating Barycenters of Distributions with Neural Optimal Transport** by [Alexander Kolesov](https://scholar.google.com/citations?user=WyAI_wUAAAAJ), [Petr Mokrov](https://scholar.google.com/citations?user=CRsi4IkAAAAJ), [Igor Udovichenko](https://scholar.google.com/citations?user=IkcYVhXfeQcC), [Milena Gazdieva](https://scholar.google.com/citations?user=h52_Zx8AAAAJ), [Gudmund Pammer](https://scholar.google.com/citations?user=ipItetYAAAAJ), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ).
 
